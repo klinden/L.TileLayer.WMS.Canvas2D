@@ -1,0 +1,21 @@
+{
+  "name": "leaflet-wms-canvas2d",
+  "version": "1.0.0",
+  "description": "Leaflet WMS tile layer rendered on a 2D canvas",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:klinden/L.TileLayer.WMS.Canvas2D.git"
+  },
+  "keywords": [
+    "leaflet"
+  ],
+  "author": "Kyle Linden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klinden/L.TileLayer.WMS.Canvas2D/issues"
+  },
+  "homepage": "https://github.com/klinden/L.TileLayer.WMS.Canvas2D#readme",
+  "dependencies": {
+    "leaflet": "^1.0.3"
+  }
+}
