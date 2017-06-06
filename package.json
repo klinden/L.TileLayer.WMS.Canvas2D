@@ -17,5 +17,6 @@
   "homepage": "https://github.com/klinden/L.TileLayer.WMS.Canvas2D#readme",
   "dependencies": {
     "leaflet": "^1.0.3"
-  }
+  },
+  "main": "TileLayer.WMS.Canvas2D.js"
 }
